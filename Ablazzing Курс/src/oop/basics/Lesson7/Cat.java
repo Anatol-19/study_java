@@ -1,4 +1,4 @@
-package oop.Lesson7;
+package oop.basics.Lesson7;
 
 public class Cat {
     public String color;

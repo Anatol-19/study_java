@@ -1,4 +1,4 @@
-package oop.Lesson8;
+package oop.basics.Lesson8;
 
 public class Car {
     private String brand;

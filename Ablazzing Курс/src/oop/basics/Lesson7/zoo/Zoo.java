@@ -1,6 +1,6 @@
-package oop.Lesson7.zoo;
+package oop.basics.Lesson7.zoo;
 
-import oop.Lesson7.Cat;
+import oop.basics.Lesson7.Cat;
 
 public class Zoo {
     public static void main(String[] args) {
