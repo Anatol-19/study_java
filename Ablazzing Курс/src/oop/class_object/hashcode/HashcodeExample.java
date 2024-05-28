@@ -13,7 +13,7 @@ public class HashcodeExample {
         Child[] group1 = {child3, child4};
         Child[][] children = {group0, group1};
 
-        Child childForFind = new Child("Киров Сергей", 2018);
+        Child childForFind = new Child("Иванов Валентин", 2019);
 
         ChildrenGardenWhithGpoups childrenGardenWhithGpoups = new ChildrenGardenWhithGpoups(children);
 

@@ -8,6 +8,4 @@ public class ChildrenGarden {
     public Child[] getChildren() {
         return children;
     }
-
-
 }
